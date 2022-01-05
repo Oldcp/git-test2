@@ -20,6 +20,8 @@ public class gittest {
 
         System.out.println("PDDnb");
 
+        System.out.println("早日上岸");
+
     }
 
 }
