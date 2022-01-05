@@ -18,6 +18,8 @@ public class gittest {
         System.out.println("LBWNB");
         System.out.println("LBWnotNB");
 
+        System.out.println("PDDnb")
+
     }
 
 }
