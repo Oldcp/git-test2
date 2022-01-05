@@ -16,7 +16,8 @@ public class gittest {
         System.out.println("push test!!!");
         
         System.out.println("LBWNB");
-        
+        System.out.println("LBWnotNB");
+
     }
 
 }
