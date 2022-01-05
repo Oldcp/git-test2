@@ -22,6 +22,8 @@ public class gittest {
 
         System.out.println("早日上岸");
 
+        System.out.println("早日上岸！！！");
+
     }
 
 }
